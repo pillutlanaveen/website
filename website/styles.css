@@ -1,0 +1,157 @@
+#title{
+  background-color: #d1d2dc;        
+}
+h1{
+  .anta-regular {
+      font-family: "Anta";
+      font-weight: 500;
+      font-style: italic;
+    }
+    
+}
+h2{
+  .anta-regular{
+    font-family:"Anta" ;
+    font-weight: 500;
+    font-style: italic;
+  }
+}
+h3{
+  .anta-regular{
+    font-family:"Anta";
+    font-weight: 500;
+    font-style: italic;
+  }
+}
+.container-fluid{
+  padding:3% 15%;
+ 
+
+}
+body{
+  font-family: "Anta";
+}
+
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.btn btn-dark{
+  padding: 0% 0% 0% 0%;
+  margin-left: 2%;
+  margin-top: 5%;
+}
+
+.title-image{
+  width: 120%;
+  transform: rotate(1.5rem);
+  margin-top: auto;
+  margin-right: auto;
+}
+#features{
+  padding: 4% 5% 4% 5%;
+  text-align: center;
+}
+.icon{
+  text-align: center;
+  color:rgb(244, 230, 230);
+}
+.icon-fa-solid:hover{
+  color:blue;
+}
+
+p{
+  text-align:justify;
+  font-family:Anta ;
+}
+.col-lg-4{
+  text-align: center;
+
+}
+
+
+#testimonials{
+  background-color:#EED3D9;
+  padding:3% 15%;
+  text-align: center;
+  color:brown;
+  font-family: cursive;
+  background-position: center;
+}
+.testimonial-test{
+  display: flex;
+  flex-direction: row;
+  margin: 5% 0% 10% 30%;
+  gap: 100px;
+  border: 100%;
+  text-align: center;
+
+}
+
+.testimonial-image{
+  width:15%;
+  border-radius: 100%;
+  margin-right: 5px;
+}
+.developer-image{
+  width:90%;
+  border-radius: 100%;
+}
+#press{
+  background-color: hsla(73, 100%, 2%, 0.927);        
+  text-align: center;
+  padding-bottom: 5%;
+}
+.press-logo{
+  width:20%;
+  margin:2%;
+  text-align: center;
+}
+
+#pricing{
+  text-align: center;
+  padding: 75px;
+ }
+
+ card{
+  -webkit-box-shadow: 0.5px 3px 10px 11px #dddddd;
+  -moz-box-shadow: 0.5px 3px 10px 11px #dddddd;
+  box-shadow: 0.5px 3px 10px 11px #dddddd;
+width: 20%;
+position: relative;
+width: 250px;
+height: 200px;
+  align-items: left;
+
+
+
+}
+
+
+.card img {
+  width: 250px;
+  height: 250px;
+opacity: 0.8;
+}
+ #cta{
+  text-align: center;
+  background-color: aqua;
+
+ }
+ 
+.fa-solid fa-user{
+  text-align:right;
+}
+#footer{
+  text-align: center;
+  font-style: italic;
+}
+p{
+
+  text-align: center;
+  padding: auto;
+}
